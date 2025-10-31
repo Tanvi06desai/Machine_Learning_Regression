@@ -7,6 +7,9 @@ This project aims to predict apartment rental prices based on various property f
 Objective
 To build a predictive model that accurately estimates the rental price (target variable) for apartments listed across different U.S. cities, based on their attributes and listing details.
 
+Data Source: 
+https://www.kaggle.com/datasets/shashanks1202/apartment-rent-data
+
 Conclusion
 This project demonstrates how Machine Learning regression techniques can effectively predict apartment rental prices using property-level data.
 Key takeaways:
